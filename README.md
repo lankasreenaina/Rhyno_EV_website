@@ -1,5 +1,11 @@
 # Rhyno EV Website
 
+![Home Page](PROJECT/img/homepage.png)
+*Home page of Rhyno EV Website*
+
+![Responsive Interaction](PROJECT/img/responsive.png)
+*Responsive design on mobile device*
+
 A modern, responsive website for Rhyno Electric Vehicles, designed to showcase products, provide rental information, and facilitate user interaction.
 
 <<<<<<< HEAD
