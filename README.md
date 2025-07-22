@@ -5,10 +5,6 @@
 
 
 A modern, responsive website for Rhyno Electric Vehicles, designed to showcase products, provide rental information, and facilitate user interaction.
-
-
-
-A modern, responsive website for Rhyno Electric Vehicles, designed to showcase products, provide rental information, and facilitate user interaction.
 =======
 ## 🚗 Project Overview
 This project is a static website for Rhyno Electric Vehicles, featuring product listings, rental options, and user authentication pages. The site is built with HTML, CSS, and JavaScript, and includes multiple pages for products, rentals, about, and contact information.
