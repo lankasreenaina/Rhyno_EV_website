@@ -2,14 +2,11 @@
 
 A modern, responsive website for Rhyno Electric Vehicles, designed to showcase products, provide rental information, and facilitate user interaction.
 
-<<<<<<< HEAD
 ![Home Page](PROJECT/img/homepage.png)
 *Home page of Rhyno EV Website*
 
 
 A modern, responsive website for Rhyno Electric Vehicles, designed to showcase products, provide rental information, and facilitate user interaction.
-=======
->>>>>>> 04f3020 (Add homepage and responsive screenshots, update README with images)
 ## 🚗 Project Overview
 This project is a static website for Rhyno Electric Vehicles, featuring product listings, rental options, and user authentication pages. The site is built with HTML, CSS, and JavaScript, and includes multiple pages for products, rentals, about, and contact information.
 
@@ -81,8 +78,4 @@ PROJECT/
 For questions or feedback, please contact the project maintainer via [GitHub](https://github.com/lankasreenaina).
 
 ## 📝 License
-<<<<<<< HEAD
 This project is licensed under the [MIT License](LICENSE). 
-=======
-This project is licensed under the [MIT License](LICENSE).
->>>>>>> 04f3020 (Add homepage and responsive screenshots, update README with images)
